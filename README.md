@@ -32,6 +32,6 @@ Each topic will contain:
 ## Tools
 
 - MATLAB
-- CVX with MATLAB
+- CVX 
 
 
